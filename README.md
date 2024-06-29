@@ -36,6 +36,8 @@ Create a detailed design document outlining system architecture
 - Month 2-3 (8 Weeks): Wireframe for the Platform/DApp, Design of the SBT structure and system architecture planning.
 
     Budget: $2000
+BUdget will be allocated in two quarters if needed $1200 / $800
+  
 	Spreadsheet [optional]: 
 
 Version: 1.0
