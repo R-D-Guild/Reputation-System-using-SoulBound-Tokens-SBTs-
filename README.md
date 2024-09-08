@@ -21,13 +21,16 @@ For detailed milestones, refer to the [Project Milestones](./docs/milestones.md)
 ### 2. **Documentation and User Guides**
 - **System Documentation**:
   - The complete design document outlining the architecture and functionality of the system can be found [here](./docs/SBT_System_Design.md).
-- **User Guides**:
-  - A step-by-step user guide for contributors, covering how to earn and redeem coupons, mint badges, and participate in governance, is available [here](./docs/user_guide.md).
 
-### 3. **Objective Definition Workshops**
+(WIP) - **User Guides**:
+  - A step-by-step user guide for contributors, covering how to earn and redeem coupons, mint badges, and participate in governance, is available [here](./docs/user_guide.md).
+(WIP)
+
+(WIP) ### 3. **Objective Definition Workshops**
 - Regular workshops will be held to define the objectives of the system, ensuring alignment with the goals of the SingularityNET Ambassador Program.
   - **Workshop 1**: Objectives for Phase 1 (Prototype Development) - [Workshop Summary](./docs/workshops/objective_definition_1.md)
   - **Workshop 2**: Feedback from Beta Testers - [Workshop Summary](./docs/workshops/objective_definition_2.md)
+(WIP)
 
 ### 4. **Platform/DApp Wireframe Design**
 - A wireframe of the platform/DApp is provided to visualize the system's user interface and core functionalities.
@@ -36,16 +39,16 @@ For detailed milestones, refer to the [Project Milestones](./docs/milestones.md)
 ### 5. **Soulbound Tokens (SBT) Structure**
 - The SBT structure is defined to track contributions across workgroups and guilds using **Coupons**, **Badges**, and **Reputation**.
   - **SBT Structure Overview**: [SBT Documentation](./docs/SBT_structure.md)
-  - **Coupons and Badges**: Detailed explanation of how they work within the system can be found [here](./docs/coupons_badges.md).
+ (WIP) - **Coupons and Badges**: Detailed explanation of how they work within the system can be found [here](./docs/coupons_badges.md). (WIP)
 
 ### 6. **System Architecture Design Document**
 - The complete architecture of the system, including smart contracts, data flow, and reputation algorithm, is outlined in the detailed design document.
   - **System Architecture Document**: [System Architecture](./docs/system_architecture.md)
 
 
-
+(WIP)
 ## **Contributing**
 We will welcome contributions to improve the system. 
 NOTE: This is a work-in-progress, once it's completed we will update the document.
 Please review the [Contributing Guide](./CONTRIBUTING.md) before submitting pull requests.
-
+(WIP)
